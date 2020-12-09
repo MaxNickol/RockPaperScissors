@@ -1,0 +1,15 @@
+Q:\VIsual Studio\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.exe
+Q:\VIsual Studio\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.deps.json
+Q:\VIsual Studio\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.json
+Q:\VIsual Studio\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.dev.json
+Q:\VIsual Studio\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.dll
+Q:\VIsual Studio\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.pdb
+Q:\VIsual Studio\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csprojAssemblyReference.cache
+Q:\VIsual Studio\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfoInputs.cache
+Q:\VIsual Studio\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfo.cs
+Q:\VIsual Studio\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csproj.CoreCompileInputs.cache
+Q:\VIsual Studio\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.dll
+Q:\VIsual Studio\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.pdb
+Q:\VIsual Studio\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.genruntimeconfig.cache
+Q:\VIsual Studio\RockPaperScissors\bin\Debug\netcoreapp3.1\Waher.Security.SHA3.dll
+Q:\VIsual Studio\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csproj.CopyComplete
